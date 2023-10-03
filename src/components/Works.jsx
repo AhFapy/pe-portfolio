@@ -49,7 +49,7 @@ const Works = () => {
 
   return (
     <>
-    <motion.div variants={textVariant()} className='flex justify-center items-center flex-col'>
+    <motion.div variants={textVariant()} className='flex justify-center items-center flex-col mt-[50vh]'>
       <p className={`${styles.sectionSubText} text-center`}>My Work</p>
       <h2 className={`${styles.sectionHeadText} text-center`}>Projects.</h2>
     </motion.div>

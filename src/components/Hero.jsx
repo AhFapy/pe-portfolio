@@ -14,11 +14,11 @@ const Hero = () => {
         </div>
 
         <div className='w-full flex flex-col items-center'>
-            <h1 className={`${styles.heroHeadText} text-white`}>Hi, I'm <span className='text-[#915eff]'>AhFa</span></h1>
+            <h1 className={`${styles.heroHeadText} text-white`}>Hi, I'm <span className='text-[#915eff]'>Ahmed</span></h1>
             <p className={`${styles.heroSubText} mt-2 text-white-100 text-center`}>
-              I develop and build User 
+              This is my journey to 
               <br className='sm:block hidden'/>
-               Interfaces, Landing Pages and Web Solutions.
+               improving my body, athleticism and health.
             </p>
         </div>
       </div>

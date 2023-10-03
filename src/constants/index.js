@@ -32,22 +32,22 @@ import {
     },
     {
       id: "work",
-      title: "Work",
+      title: "Measures",
     },
     {
       id: "contact",
-      title: "Contact",
+      title: "Goals",
     },
   ];
   
   const services = [
     {
-      title: "Web Developer",
+      title: "16 Years Old",
       icon: web,
     },
     
     {
-      title: "UI Designer",
+      title: "Barcelona",
       icon: figma,
     },
   ];

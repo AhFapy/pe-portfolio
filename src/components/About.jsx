@@ -44,8 +44,8 @@ const About = () => {
     variants={fadeIn("", "", 0., 1)}
     className='mt-4 text-secondary text-center flex-center text-[17px] max-w-3xl leading-[30px]'
     >
-      My name's Ahmed Mirza, a programmer from Barcelona, Spain. I have been creating digital solutions since I was 14,  but in January 2023 I decided to take my experience to the next level.
-      With extensive experience, I can meet your needs and bring your projects to success. I will turn your ideas into reality with user friendly outcomes. 
+      My name's Ahmed Mirza and I'm on baccalaureate's first year. My main goal for this P.E semester is the same as my life philosophy. <br/>
+      Being disciplined and achieving a top tier athletic and aesthetic body 
     </motion.p>
 
     <div className='mt-20 flex flex-wrap gap-10 justify-center'>
