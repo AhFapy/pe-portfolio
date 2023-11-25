@@ -23,6 +23,8 @@ const Tech = () => {
                 </div>
             </h1>
         </div>
+        <h2 className={`${styles.sectionSubText} text-center mt-[5vh]`}>ParQ Test</h2>
+        <img className={`rounded-xl border-2 border-sky-500 mt-[3rem] hover:cursor-pointer hover:opacity-70 ease-in-out transition-all`} src="parq-test.jpg"/>
         <h2 className={`${styles.sectionSubText} text-center mt-[5vh]`}>Body Fat Measures with ACE</h2>
         <img className={`rounded-xl border-2 border-sky-500 mt-[3rem] hover:cursor-pointer hover:opacity-70 ease-in-out transition-all`} src="Ace-calculation.png"/>
         <h2 className={`${styles.sectionSubText} text-center mt-[5vh]`}>BMI Calculations</h2>

@@ -26,14 +26,11 @@ const Contact = () => {
       className="flex-[0.75] bg-black-100 p-8 rounded-2xl"
       >
         <p className={styles.sectionSubText}>
-          Get in touch
-          <h3 className={styles.sectionHeadText}>Contact.</h3>
+          <h3 className={styles.sectionHeadText}>Thank you for your support.</h3>
         </p>
         <div className="bg-none flex flex-row items-center">
           <span className="sm:text-[6vw] lg:text-[3vw]">
-          <FontAwesomeIcon icon={faEnvelope} />
           </span>
-          <p className="ml-[1rem]">ahelfa123@gmail.com</p>
         </div>
       </motion.div>
     </div>

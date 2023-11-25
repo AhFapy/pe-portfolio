@@ -110,9 +110,9 @@ import {
   
   const projects = [
     {
-      name: "Landing Page for José Gómez",
+      name: "Week 1",
       description:
-        "This Landing Page is designed to attract pottential clients for a professional Instagram Sales Launcher to offer his services.",
+        "From the 20th to the 26th of November.",
       tags: [
         {
           name: "react",
@@ -127,8 +127,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: "landing-page-img.PNG",
-      source_code_link: "https://landing-page-jose-gomez-demo.netlify.app/",
+      image: "/week1-img.jpg",
+      source_code_link: "link",
     },
   ];
   
