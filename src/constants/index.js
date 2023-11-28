@@ -42,12 +42,12 @@ import {
   
   const services = [
     {
-      title: "16 Years Old",
+      title: "Murph Under 50Min",
       icon: web,
     },
     
     {
-      title: "Barcelona",
+      title: "24% Body Fat",
       icon: figma,
     },
   ];

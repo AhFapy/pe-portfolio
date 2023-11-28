@@ -28,7 +28,6 @@ return (
           <h3 className='text-white text-[20px] font-bold text-center'>{title}</h3>
           
         </div>
-
       </motion.div>
     </Tilt>
   )
@@ -53,9 +52,17 @@ const About = () => {
         <ServiceCard key={service.title} index={index} {...service}/>
       ))}
     </div>
-
     </motion.div>
 
+    <h2 className={`${styles.sectionHeadText} text-center mt-[10vh]`}>The System.</h2>
+    <motion.p
+    variants={fadeIn("", "", 0., 1)}
+    className='mt-[10vh] ml-[25%] mr-[25%] text-center flex-center text-[17px] max-w-3xl leading-[30px]'
+    >
+      <p>· 4x Hypertrophy Training Weekly</p>
+      <p>· 2x Murph Workouts per Month</p>
+      <p>· 1x Jogging Session per Week</p>
+    </motion.p>
     </>
   )
 }
