@@ -110,9 +110,9 @@ import {
   
   const projects = [
     {
-      name: "Week 1",
+      name: "Proof",
       description:
-        "From the 20th to the 26th of November.",
+        "See All The Proof.",
       tags: [
         {
           name: "react",
@@ -128,7 +128,7 @@ import {
         },
       ],
       image: "/week1-img.jpg",
-      source_code_link: "link",
+      source_code_link: "https://inexpensive-package-725.notion.site/Global-Mile-Proof-054f1d02bbb34fd38cc79878d0f64635",
     },
   ];
   
